@@ -3,7 +3,7 @@
 "scripts":{
 "start":"node index.js"
 },
-"dependencies:{
+"dependencies":{
 "discord.js":"^13.7.0",
 "nodemon":"^2.0.7"
 },
